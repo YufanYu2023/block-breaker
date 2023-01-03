@@ -1,0 +1,2 @@
+D:\Block Breaker\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Block Breaker\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
